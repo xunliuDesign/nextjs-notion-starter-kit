@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'AI for Landscape Architects',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  //domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Xun Liu',
 
   // open graph metadata (optional)
